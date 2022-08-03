@@ -11,7 +11,7 @@ class pulser
 	}
 	void show()
 	{
-		System.out.println("the speed is "+speed+" and the color is "+color);
+		System.out.println("the speed is "+speed+"km/hr"+" and the color is "+color+" color");
 		
 	}
 }
