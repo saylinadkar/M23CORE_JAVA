@@ -1,4 +1,4 @@
-package cpm.cg.ThisKeywod;
+package com.cg.ThisKeywod;
 class AB
 {
 	public int num;

@@ -1,4 +1,4 @@
-package cpm.cg.ThisKeywod;
+package com.cg.ThisKeywod;
 //this keyword used to refer current class instance variable 
 class A 
 {
