@@ -1,4 +1,4 @@
-package com.gapgemini.github;
+package com.capgemini.github;
 
 public class Hellojava {
 
